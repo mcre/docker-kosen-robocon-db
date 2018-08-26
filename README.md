@@ -5,9 +5,12 @@ docker-kosen-robocon-db
 
 * [kosen-robocon-db](https://github.com/kosen-robocon-db/kosen-robocon-db) の開発環境
 
-## dockerhub
+## リンク
 
-- https://hub.docker.com/r/mcre/kosen-robocon-db/
+* github
+    - https://github.com/kosen-robocon-db/docker-kosen-robocon-db
+* docker-hub
+    - https://hub.docker.com/r/mcre/kosen-robocon-db/
 
 ## 使い方
 
