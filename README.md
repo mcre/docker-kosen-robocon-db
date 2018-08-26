@@ -8,7 +8,7 @@ docker-kosen-robocon-db
 ## リンク
 
 * github
-    - https://github.com/kosen-robocon-db/docker-kosen-robocon-db
+    - https://github.com/mcre/docker-kosen-robocon-db
 * docker-hub
     - https://hub.docker.com/r/mcre/kosen-robocon-db/
 
