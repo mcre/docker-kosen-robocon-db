@@ -7,7 +7,7 @@ docker-kosen-robocon-db
 
 ## dockerhub
 
-- https://hub.docker.com/r/mcre/docker-kosen-robocon-db/
+- https://hub.docker.com/r/mcre/kosen-robocon-db/
 
 ## 使い方
 
